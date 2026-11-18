@@ -3,7 +3,8 @@ export default function Corpo() {
   return (
     <section className="relative w-full h-3/12 flex grow items-center justify-center overflow-hidden">
       <div className="relative z-10 max-w-6xl mx-auto sm:p-8 p-16 text-center text-white">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid  grid-cols-[repeat(auto-fit,minmax(15rem,1fr))] gap-8">
+          {/* Render cards dynamically auto-fit with min width of 15rem (1fr max) */}
           {cards.map((card, index) => (
             <div
               key={index}

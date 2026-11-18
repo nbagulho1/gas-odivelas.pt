@@ -13,8 +13,8 @@
   },
   {
     "title": "Receba em Casa",
-    "image": "./src/assets/mb-logo.svg",
+    "image": "./src/assets/mb_mbway-logo.svg",
     "alt": "Multibanco",
-    "description": "Aceitamos pagamentos com dinheiro e Multibanco."
+    "description": "Aceitamos pagamentos com dinheiro, Multibanco e MB Way."
   }
 ]
