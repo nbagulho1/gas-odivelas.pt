@@ -1,14 +1,20 @@
 [
   {
     "title": "Entrega de gás todos os dias",
+    "image": "./src/assets/van-logo.svg",
+    "alt": "Entrega de gás",
     "description": "Entregamos gás ao domicílio em Odivelas, Pontinha, Casal de Cambra, Caneças, Dona Maria e Póvoa de Santo Adrião todos os dias da semana, das 9h às 21h."
   },
   {
     "title": "GALP Gás",
+    "image": "./src/assets/galp-logo.svg",
+    "alt": "GALP Gás",
     "description": "Fazemos entrega de gás da marca GALP em garrafas de gás butano e propano, bem como as garrafas Pluma de gás butano."
   },
   {
     "title": "Receba em Casa",
+    "image": "./src/assets/mb-logo.svg",
+    "alt": "Multibanco",
     "description": "Aceitamos pagamentos com dinheiro e Multibanco."
   }
 ]
